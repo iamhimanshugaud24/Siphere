@@ -585,10 +585,14 @@ Future updates will support additional SPL tokens. To request token addition:
 
 ### Core Team
 
-**Abhinav Gupta**
-**Himanshu Gaud**
-**Shraddha Yadav**
+**Abhinav Gupta**,
+
+**Himanshu Gaud**,
+
+**Shraddha Yadav**,
+
 **Zeba Mussharrat**
+
 
 
 ### Advisors & Contributors
@@ -648,7 +652,7 @@ This project is open source and available under the MIT License.
 
 For questions, suggestions, or support:
 
-- GitHub: [aniketsahu115](https://github.com/aniketsahu115)
+- GitHub: [iamhimanshugaud24][(https://github.com/iamhimanshugaud24/Siphere.git)]
 - Website: [https://siphere.vercel.app/](https://siphere.vercel.app/)
 
 ---
