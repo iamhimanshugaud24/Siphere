@@ -585,21 +585,11 @@ Future updates will support additional SPL tokens. To request token addition:
 
 ### Core Team
 
-**Sameer Kumar Mishra** - Co-Founder & CEO
+**Abhinav Gupta**
+**Himanshu Gaud**
+**Shraddha Yadav**
+**Zeba Mussharrat**
 
-- Former DeFi protocol architect with 1+ years in blockchain technology
-- Expertise: Blockchain Architecture, DeFi Protocols, Team Leadership
-- [GitHub](https://github.com/Itssam06) | [LinkedIn](https://www.linkedin.com/in/sameer-mishra-967412239/) | [Twitter](https://x.com/bytewolf_eth)
-
-**Nilesh Pathak** - Co-Founder
-
-- Smart contract security expert and former Community Builder
-- [GitHub](https://github.com/nileshpathak)
-
-**Aniket Sahu** - Developer
-
-- Full-stack developer specializing in Web3 technologies
-- [GitHub](https://github.com/aniketsahu115)
 
 ### Advisors & Contributors
 
